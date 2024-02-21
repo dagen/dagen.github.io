@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/docs/home/</loc>
+    <loc>https://dagen.github.com/docs/docs/home/</loc>
   </url><url>
-    <loc>https://example.org/posts/hello/</loc>
+    <loc>https://dagen.github.com/docs/</loc>
     <lastmod>2024-02-20T19:07:10-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://dagen.github.com/docs/posts/hello/</loc>
     <lastmod>2024-02-20T19:07:10-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://dagen.github.com/docs/posts/</loc>
     <lastmod>2024-02-20T19:07:10-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://dagen.github.com/docs/categories/</loc>
   </url><url>
-    <loc>https://example.org/docs/</loc>
+    <loc>https://dagen.github.com/docs/docs/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://dagen.github.com/docs/tags/</loc>
   </url>
 </urlset>
